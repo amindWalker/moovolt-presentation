@@ -1,6 +1,6 @@
 ---
 theme: default
-background: /EV-Image-2/x.png
+background: /EV-Image-2x.png
 # some information about your slides, markdown enabled
 title: MOOV.OLT - Transformando a Mobilidade Elétrica no Brasil
 # apply any unocss classes to the current slide
@@ -37,7 +37,7 @@ MOOV.OLT, VOCÊ NO CENTRO DA REVOLUÇÃO ELÉTRICA.
 transition: slide-up
 layout: image-right
 class: border-4
-image: https://www.here.com/sites/g/files/odxslz256/files/styles/blog_post_xs/public/2023-03/taxi_fleet_analysi/s.png?itok=P-2zY-Gq
+image: /taxi_fleet_analysis.webp
 backgroundSize: contain
 ---
 
