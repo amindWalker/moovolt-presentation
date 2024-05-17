@@ -25,7 +25,7 @@ fonts:
 </h1>
 
 
-MOOV.OLT, VOCÊ NO CENTRO DA REVOLUÇÃO ELÉTRICA.
+VOCÊ NO CENTRO DA REVOLUÇÃO ELÉTRICA.
 
 <div class="pt-12 animate-pulse">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
