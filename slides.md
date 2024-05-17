@@ -1,6 +1,6 @@
 ---
 theme: default
-background: /EV-Image-2x.png
+background: /EV-Image-2/x.png
 # some information about your slides, markdown enabled
 title: MOOV.OLT - Transformando a Mobilidade Elétrica no Brasil
 # apply any unocss classes to the current slide
@@ -37,7 +37,7 @@ MOOV.OLT, VOCÊ NO CENTRO DA REVOLUÇÃO ELÉTRICA.
 transition: slide-up
 layout: image-right
 class: border-4
-image: https://www.here.com/sites/g/files/odxslz256/files/styles/blog_post_xs/public/2023-03/taxi_fleet_analysis.png?itok=P-2zY-Gq
+image: https://www.here.com/sites/g/files/odxslz256/files/styles/blog_post_xs/public/2023-03/taxi_fleet_analysi/s.png?itok=P-2zY-Gq
 backgroundSize: contain
 ---
 
@@ -145,7 +145,7 @@ class: bg-green text-black
 
 ---
 layout: image-right
-image: /github-projects.png
+image: /github-project/s.png
 backgroundSize: cover
 class: bg-blue
 ---
@@ -223,63 +223,63 @@ layout: center
 backgroundSize: contain
 ---
 
-![](1.png)
+![](/1.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](2.png)
+![](/2.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](3.png)
+![](/3.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](4.png)
+![](/4.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](5.png)
+![](/5.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](6.png)
+![](/6.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](7.png)
+![](/7.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](8.png)
+![](/8.png)
 
 ---
 layout: center
 backgroundSize: contain
 ---
 
-![](9.png)
+![](/9.png)
 
 
 ---
