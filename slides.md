@@ -145,7 +145,7 @@ class: bg-green text-black
 
 ---
 layout: image-right
-image: /github-project/s.png
+image: /github-projects.png
 backgroundSize: cover
 class: bg-blue
 ---
